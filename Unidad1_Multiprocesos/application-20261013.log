@@ -1,0 +1,8 @@
+2026-10-13 10:19:49.501 [main] ERROR Controlador.Boletin1_1 - Cannot run program "Chrome.exe": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-13 10:24:40.345 [main] ERROR Controlador.MainPrueba - Cannot run program "C://Users//alumno//Desktop//Manuel - Chrome.lnk": CreateProcess error=193, %1 no es una aplicación Win32 válida
+2026-10-13 10:27:46.936 [main] ERROR Controlador.MainPrueba - Cannot run program "C:\Program Files\Google\Chrome": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-13 10:35:45.890 [main] ERROR Controlador.MainPrueba - Cannot run program "C:\Users\alumno\AppData\Local\Google\Chrome\Application": CreateProcess error=5, Acceso denegado
+2026-10-13 10:35:55.402 [main] ERROR Controlador.MainPrueba - Cannot run program "C:\Users\alumno\AppData\Local\Google\Chrome": CreateProcess error=5, Acceso denegado
+2026-10-13 10:36:05.362 [main] ERROR Controlador.MainPrueba - Cannot run program "C:\Users\alumno\AppData\Local\Google\Chrome.exe": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-13 10:38:35.664 [main] ERROR Controlador.MainPrueba - Cannot run program "C:\Users\alumno\AppData\Local\Google\Chrome": CreateProcess error=5, Acceso denegado
+2026-10-13 10:57:42.800 [main] DEBUG Controlador.MainPrueba - javac terminó con código 2
