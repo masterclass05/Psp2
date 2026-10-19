@@ -1,0 +1,8 @@
+2026-10-19 08:32:46.617 [main] DEBUG Controlador.MainPrueba - javac terminó con código 2
+2026-10-19 08:33:04.478 [main] DEBUG Controlador.MainPrueba - javac terminó con código 2
+2026-10-19 08:34:38.354 [main] ERROR Controlador.MainPrueba - Cannot run program "phyton": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-19 08:35:07.250 [main] ERROR Controlador.MainPrueba - Cannot run program "phyton": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-19 08:35:17.112 [main] ERROR Controlador.MainPrueba - Cannot run program "phyton": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-19 08:35:34.791 [main] ERROR Controlador.MainPrueba - Cannot run program "Phyton": CreateProcess error=2, El sistema no puede encontrar el archivo especificado
+2026-10-19 08:42:32.799 [main] DEBUG Controlador.MainPrueba - javac terminó con código 1
+2026-10-19 08:42:59.107 [main] DEBUG Controlador.MainPrueba - javac terminó con código 1
