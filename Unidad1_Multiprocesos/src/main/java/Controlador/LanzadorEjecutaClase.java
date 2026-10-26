@@ -4,16 +4,14 @@ import java.io.IOException;
 
 public class LanzadorEjecutaClase {
 
-	private final static String directorioGenerarClasses = "target\\classes";
+/*	private final static String directorioGenerarClasses = "target\\classes";
 	private final static String rutaClase = "Controlador.MainPhyton";
 	public int ejecutaClase (String clase) {
 		ProcessBuilder pb;
 	    int resultado = -1;
 	    String claseCompleta =  clase;
 	   try {
-			String[] comando = {"java", "-cp",
- directorioGenerarClasses, 
-claseCompleta };
+			String[] comando = {"java", "-cp", directorioGenerarClasses, claseCompleta };
 			pb = new ProcessBuilder(comando);
 			pb.redirectErrorStream(true);
 			pb.inheritIO();
@@ -35,6 +33,6 @@ claseCompleta };
 		}else {
 			System.out.println("Recibo un argumento");
 		}
-	}
+	}*/
 
 }
