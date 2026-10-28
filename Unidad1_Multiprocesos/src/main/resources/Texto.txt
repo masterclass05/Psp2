@@ -1,0 +1,9 @@
+En la programacion de sistemas, un proceso es la unidad fundamental de ejecucion.
+Cada proceso puede iniciar un servicio para atender peticiones.
+Un servicio web es un claro ejemplo de proceso en segundo plano.
+La concurrencia nos ayuda a gestionar multiples tareas a la vez.
+Gracias a la concurrencia y al procesamiento paralelo mejoramos el rendimiento.
+Un hilo ligero forma parte de un proceso complejo.
+Cada hilo ejecuta una parte del codigo de forma independiente.
+Una aplicacion multihilo aprovecha mejor los nucleos de la CPU.
+El desarrollo multihilo requiere sincronizar el acceso a los recursos.

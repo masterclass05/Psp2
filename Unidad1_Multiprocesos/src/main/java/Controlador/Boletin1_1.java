@@ -12,17 +12,18 @@ public class Boletin1_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Runtime rt = Runtime.getRuntime();
-		String[] informacionProceso = {"Chrome.exe", "www.youtube.com"};
-		Process proceso;
+		
+
+		String[] argumentos = {"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\\", "https://www.marca.com/"};
+
 		try {
-			proceso = rt.exec(informacionProceso);
-			int codigoRetorno = proceso.waitFor(); //Espero a que termine
-			logger.debug(codigoRetorno);
+			rt.exec(argumentos);
 		} catch (IOException e) {
-			logger.error(e.getMessage());
-		} catch (InterruptedException e) {
-			logger.error(e.getMessage());
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+
+		
 	}
 
 }
