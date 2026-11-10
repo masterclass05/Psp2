@@ -3,6 +3,7 @@ package Temperaturas;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class AnalizadorTemperaturas {
@@ -23,11 +24,12 @@ public class AnalizadorTemperaturas {
 		Scanner in = new Scanner(fr);
 		int contador = 0;
 		int contador2=0;
-		String[] dias;
+		ArrayList<Scanner> dias = new ArrayList<Scanner>();
 		while (in.hasNext()) {
 			contador2++;
 			if (in.nextInt()>umbral) {
 				contador++;
+				in.toString();
 				dias.add(in);
 			}
 		}
